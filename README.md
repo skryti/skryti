@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skryti&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 <p align="left">
   <a href="https://github.com/skryti">
